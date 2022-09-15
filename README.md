@@ -2,6 +2,7 @@
 This repository contains code for recognizing facial expression trained on custom CNN model that can run on your webcam using openCV
 
 # Data and model training
+https://github.com/Srinuredy/face-emotion/edit/main/README.md
 for details on the dataset used
 
 # training and testing envoronment
@@ -12,4 +13,4 @@ for details on the dataset used
 trained weights on the model can be downloaded from
 https://drive.google.com/file/d/1192YC8mYKaCbCoACP8hTfr9PCMC3iN30/view?usp=sharing
 
-# The results
+https://github.com/Srinuredy/face-emotion/edit/main/README.md
